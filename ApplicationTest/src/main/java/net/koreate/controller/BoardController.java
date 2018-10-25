@@ -19,7 +19,7 @@ import net.koreate.vo.Criteria;
 @Controller
 @RequestMapping("/board/*")
 public class BoardController {
-	
+	//1
 	@Inject
 	BoardService service;
 	
